@@ -7,7 +7,16 @@ The original intention of this analysis was to investigate the performance of on
 ## Results:
 The stock performance was vastly different between the two years.  2017 showed postive returns for all but one stock (TERP @ -7.2% return for the year).  Four seperate stocks had a return rate of over 100%, and the average rate of return for the year was 67%  DQ in particular had the highest return at 199%.  2018 reflected all negative returns with two exceptions (ENPH @ 82% and RUN @ 84%). The average return in 2018 was -8.5% and DQ was -62.6%.  Based on the fact that DQ performed significantly worse in the second year of this study, it would not be my recommendation to target that stock over better performers in the most recent year.  ENPH in particular showed favorable returns in both years.  Between the two scripts, the execution time was roughly ten times faster with the refactored code.
 
-
+[All Stocks 2017](https://github.com/tonyferri/stock-analysis/blob/main/resources/All_stocks_2017.png)
+[All Stocks 2018](https://github.com/tonyferri/stock-analysis/blob/main/resources/All_stocks_2018.png)
+[Original script1](https://github.com/tonyferri/stock-analysis/blob/main/resources/Original_script1.png)
+[Original script2](https://github.com/tonyferri/stock-analysis/blob/main/resources/Original_script2.png)
+[Refactored script1](https://github.com/tonyferri/stock-analysis/blob/main/resources/Refactored_script1.png)
+[Refactored script2](https://github.com/tonyferri/stock-analysis/blob/main/resources/Refactored_script2.png)
+[2017 timer original](https://github.com/tonyferri/stock-analysis/blob/main/resources/2017_timer_original.png)
+[2017 timer refactored](https://github.com/tonyferri/stock-analysis/blob/main/resources/2017_timer_refactored.png)
+[2018 timer original](https://github.com/tonyferri/stock-analysis/blob/main/resources/2018_timer_original.png)
+[2018 timer refactored](https://github.com/tonyferri/stock-analysis/blob/main/resources/2018_timer_refactored.png)
 
 ## Summary:
 ### What are the advantages or disadvantages of refactoring code?
